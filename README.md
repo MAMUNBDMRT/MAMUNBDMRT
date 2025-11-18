@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm MAMUNUR RASHID</h1>
-<h3 align="center">Data analysts</h3>
+<h1 align="center">MAMUNUR RASHID</h1>
+<h3 align="center">📊 Data Analyst | 📈 Statistics Graduate | 🔍 Insight Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunbdmrt&label=Profile%20views&color=0e75b6&style=flat" alt="mamunbdmrt" /> </p>
 
